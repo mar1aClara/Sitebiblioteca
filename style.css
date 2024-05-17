@@ -40,6 +40,8 @@
     border: solid 1px rgb(185, 185, 255);
     border-radius: 15px;
     background-color: rgb(185, 185, 255);
+    width: 200px;
+    height: 30px;
 }
     
 .azulin{
@@ -47,5 +49,17 @@
 }
 
 #escolha{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
 
 }
+
+#escolha:hover{
+    background-color: rgb(185, 185, 255) ;
+}
+
+#escolha:active{
+    background-color: rgb(185, 185, 255) ;
+}
+
