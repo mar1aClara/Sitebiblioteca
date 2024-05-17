@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 #cabecalho{
     font-size: 60px;
     font-family: 'Times New Roman', Times, serif;
@@ -6,14 +11,41 @@
     padding: 20px;
     background-color: rgb(185, 185, 255);
 }
+
 #caixa{
-    border: black solid 3px;
+    border: black solid 2px;
     width: 300px;
     padding: 20px;
     border-radius: 10px;
     text-align: left;
+    background-color: white;
 }
 
 #centro{
     text-align: center;
+}
+
+#espaco{
+    padding: 170px;
+}
+
+#rodape{
+    text-align: center;
+    background-color:  rgb(185, 185, 255);
+    padding: 40px;
+
+}
+
+#confirmar{
+    border: solid 1px rgb(185, 185, 255);
+    border-radius: 15px;
+    background-color: rgb(185, 185, 255);
+}
+    
+.azulin{
+    color: rgb(185, 185, 255);
+}
+
+#escolha{
+
 }
