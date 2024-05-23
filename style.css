@@ -48,7 +48,13 @@
     color: rgb(185, 185, 255);
 }
 
-#escolha{
+#escolhaProfessor{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#escolhaAluno{
     width: 200px;
     height: 30px;
     border-radius: 10px;
@@ -63,3 +69,6 @@
     background-color: red ;
 }
 
+.ativo{
+    background-color: red;
+}
