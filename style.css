@@ -55,11 +55,11 @@
 
 }
 
-#escolha:hover{
+/* #escolha:hover{
     background-color: rgb(185, 185, 255) ;
-}
+} */
 
 #escolha:active{
-    background-color: rgb(185, 185, 255) ;
+    background-color: red ;
 }
 
