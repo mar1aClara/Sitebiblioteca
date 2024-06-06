@@ -61,14 +61,29 @@
 
 }
 
-/* #escolha:hover{
-    background-color: rgb(185, 185, 255) ;
-} */
-
-#escolha:active{
-    background-color: red ;
+#caixaMaior{
+    border: black solid 2px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    background-color: white;
 }
 
-.ativo{
-    background-color: red;
+#espaco1{
+    padding:50px;
+}
+
+.botaomenu{
+    width: 150px;
+    height: 30px;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+.botoes{
+    text-align: center;
+    background-color: rgb(221, 221, 251);
+    height: 100%;
+    padding: 10px;
 }
